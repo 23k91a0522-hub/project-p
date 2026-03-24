@@ -3,3 +3,8 @@ import numpy as np
 
 data = pd.read_csv('w12.csv')
 print(data)
+import pandas as pd
+import numpy as np
+
+data = pd.read_csv('w12.csv')
+print(data)
